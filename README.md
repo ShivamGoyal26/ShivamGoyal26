@@ -1,8 +1,6 @@
 ### Hi, I am shivam (React Native Developer) 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Real-time Chatting Solution in RN
 - 🤔 I’m looking for help with React Native Animations
 - 💬 Ask me about React Native or any tech thing perhaps :)
